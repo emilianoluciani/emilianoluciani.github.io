@@ -1,0 +1,34 @@
+p {
+    text-align: justify;
+}
+
+#texto {
+    margin-top: 4em;
+}
+
+#texto p {
+    line-height: 2.5em;
+}
+
+.navbar-brand {
+    font-size: 3em;
+    font-family: 'Source Serif Pro', serif;
+}
+
+
+.btn-primary {
+    color: #fff;
+    background-color: #37c871;
+    border-color: #217743;
+}
+
+.btn-primary:hover {
+    color: #fff;
+    background-color: #217743;
+    border-color: #217743;
+}
+
+.btn-primary:active {
+    background-color: #75cf99;
+    border-color: #217743;
+}
