@@ -1,3 +1,17 @@
+
+@media (max-width: 469px) {
+.navbar-brand img {
+    width: 180px;
+}
+}
+
+@media (max-width: 299px) {
+    .navbar-brand img {
+        width: 150px;
+    }
+    }
+  
+
 p {
     text-align: justify;
 }
